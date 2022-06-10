@@ -1,0 +1,84 @@
+2022-06-02/19:26:37		Entered the get_best_model method of the Model_Finder class
+2022-06-02/19:26:37		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/19:26:58		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/19:26:58		AUC for XGBoost:0.9511214433232389
+2022-06-02/19:26:58		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/19:26:59		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/19:26:59		AUC for RF:0.724772875624659
+2022-06-02/19:26:59		Entered the get_best_model method of the Model_Finder class
+2022-06-02/19:26:59		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/19:29:13		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/19:29:13		AUC for XGBoost:0.7990652229688979
+2022-06-02/19:29:13		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/19:29:15		Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/19:29:15		AUC for RF:0.5787096280889656
+2022-06-02/19:29:15		Entered the get_best_model method of the Model_Finder class
+2022-06-02/19:29:15		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/19:32:23		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/19:32:23		AUC for XGBoost:0.7380322908123536
+2022-06-02/19:32:23		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/19:32:25		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/19:32:25		AUC for RF:0.6904752674366582
+2022-06-02/19:32:25		Entered the get_best_model method of the Model_Finder class
+2022-06-02/19:32:25		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/19:32:27		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/19:32:27		Accuracy for XGBoost:1.0
+2022-06-02/19:32:27		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/19:32:27		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/19:32:27		Accuracy for NB:1.0
+2022-06-02/22:06:30		Entered the get_best_model method of the Model_Finder class
+2022-06-02/22:06:43		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/22:07:31		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/22:07:52		AUC for XGBoost:0.9536329186015946
+2022-06-02/22:08:00		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/22:08:20		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/22:08:42		AUC for RF:0.7426071146937704
+2022-06-02/22:10:34		Entered the get_best_model method of the Model_Finder class
+2022-06-02/22:10:45		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/22:13:51		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/22:14:08		AUC for XGBoost:0.77198486237205
+2022-06-02/22:14:15		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/22:14:40		Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/22:14:54		AUC for RF:0.5671107456106603
+2022-06-02/22:15:49		Entered the get_best_model method of the Model_Finder class
+2022-06-02/22:15:56		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/22:18:35		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/22:18:46		AUC for XGBoost:0.7439990993827815
+2022-06-02/22:18:51		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/22:19:08		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/22:19:20		AUC for RF:0.6891475016815091
+2022-06-02/22:20:19		Entered the get_best_model method of the Model_Finder class
+2022-06-02/22:20:27		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/22:20:54		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-02/22:21:05		Accuracy for XGBoost:1.0
+2022-06-02/22:21:13		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/22:21:29		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-02/22:21:41		Accuracy for NB:1.0
+2022-06-04/17:43:30		Entered the get_best_model method of the Model_Finder class
+2022-06-04/17:43:30		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-04/17:43:44		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-04/17:43:44		AUC for XGBoost:0.948081345413238
+2022-06-04/17:43:44		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-04/17:43:44		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-04/17:43:44		AUC for RF:0.7366497658825811
+2022-06-04/17:44:00		Entered the get_best_model method of the Model_Finder class
+2022-06-04/17:44:00		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-04/17:45:29		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-04/17:45:29		AUC for XGBoost:0.7909879767988004
+2022-06-04/17:45:29		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-04/17:45:30		Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-04/17:45:30		AUC for RF:0.5799568578504563
+2022-06-04/17:45:45		Entered the get_best_model method of the Model_Finder class
+2022-06-04/17:45:45		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-04/17:47:48		XGBoost best params: {'criterion': 'gini', 'max_depth': 9, 'n_estimators': 20}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-04/17:47:48		AUC for XGBoost:0.7403942897760585
+2022-06-04/17:47:48		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-04/17:47:50		Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-04/17:47:50		AUC for RF:0.6801359901133194
+2022-06-04/17:48:11		Entered the get_best_model method of the Model_Finder class
+2022-06-04/17:48:11		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-04/17:48:13		XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2022-06-04/17:48:13		Accuracy for XGBoost:1.0
+2022-06-04/17:48:13		Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-04/17:48:13		Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+2022-06-04/17:48:13		Accuracy for NB:1.0

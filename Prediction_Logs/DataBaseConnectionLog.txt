@@ -1,0 +1,98 @@
+2022-06-03/13:22:16		Tables created successfully!!
+2022-06-03/13:22:59		connection was successful
+2022-06-03/14:28:34		connection was successful
+2022-06-03/14:28:34		Tables created successfully!!
+2022-06-03/14:28:56		connection was successful
+2022-06-03/22:28:00		connection was successful
+2022-06-03/22:28:01		Tables created successfully!!
+2022-06-03/22:28:26		connection was successful
+2022-06-03/22:29:25		connection was successful
+2022-06-03/22:29:25		data loaded to csv successfully!!
+2022-06-03/22:57:26		connection was successful
+2022-06-03/22:57:29		Tables created successfully!!
+2022-06-03/22:57:47		connection was successful
+2022-06-03/22:58:12		connection was successful
+2022-06-03/22:58:12		data loaded to csv successfully!!
+2022-06-03/23:20:30		connection was successful
+2022-06-03/23:20:30		Tables created successfully!!
+2022-06-03/23:20:42		connection was successful
+2022-06-03/23:21:05		connection was successful
+2022-06-03/23:21:05		data loaded to csv successfully!!
+2022-06-03/23:25:34		connection was successful
+2022-06-03/23:25:34		Tables created successfully!!
+2022-06-03/23:25:47		connection was successful
+2022-06-03/23:26:11		connection was successful
+2022-06-03/23:26:12		data loaded to csv successfully!!
+2022-06-04/14:33:12		connection was successful
+2022-06-04/14:33:12		Tables created successfully!!
+2022-06-04/14:33:27		connection was successful
+2022-06-04/14:33:53		connection was successful
+2022-06-04/14:33:53		data loaded to csv successfully!!
+2022-06-04/15:06:43		connection was successful
+2022-06-04/15:06:43		Tables created successfully!!
+2022-06-04/15:06:54		connection was successful
+2022-06-04/15:07:16		connection was successful
+2022-06-04/15:07:16		data loaded to csv successfully!!
+2022-06-04/15:11:09		connection was successful
+2022-06-04/15:11:09		Tables created successfully!!
+2022-06-04/15:11:22		connection was successful
+2022-06-04/15:11:44		connection was successful
+2022-06-04/15:11:44		data loaded to csv successfully!!
+2022-06-04/15:27:50		connection was successful
+2022-06-04/15:27:50		Tables created successfully!!
+2022-06-04/15:28:04		connection was successful
+2022-06-04/15:28:29		connection was successful
+2022-06-04/15:28:29		data loaded to csv successfully!!
+2022-06-04/15:42:56		connection was successful
+2022-06-04/15:42:56		Tables created successfully!!
+2022-06-04/15:43:09		connection was successful
+2022-06-04/15:43:31		connection was successful
+2022-06-04/15:43:31		data loaded to csv successfully!!
+2022-06-04/16:44:35		connection was successful
+2022-06-04/16:44:36		Tables created successfully!!
+2022-06-04/16:44:50		connection was successful
+2022-06-04/16:45:13		connection was successful
+2022-06-04/16:45:14		data loaded to csv successfully!!
+2022-06-04/16:53:40		connection was successful
+2022-06-04/16:53:40		Tables created successfully!!
+2022-06-04/16:53:53		connection was successful
+2022-06-04/16:54:17		connection was successful
+2022-06-04/16:54:17		data loaded to csv successfully!!
+2022-06-04/17:58:05		connection was successful
+2022-06-04/17:58:05		Tables created successfully!!
+2022-06-04/17:58:16		connection was successful
+2022-06-04/17:58:38		connection was successful
+2022-06-04/17:58:38		data loaded to csv successfully!!
+2022-06-04/18:08:36		connection was successful
+2022-06-04/18:08:36		Tables created successfully!!
+2022-06-04/18:08:49		connection was successful
+2022-06-04/18:09:12		connection was successful
+2022-06-04/18:09:13		data loaded to csv successfully!!
+2022-06-04/18:19:34		connection was successful
+2022-06-04/18:19:35		Tables created successfully!!
+2022-06-04/18:19:49		connection was successful
+2022-06-04/18:20:13		connection was successful
+2022-06-04/18:20:13		data loaded to csv successfully!!
+2022-06-04/18:57:35		connection was successful
+2022-06-04/18:57:35		Tables created successfully!!
+2022-06-04/18:57:47		connection was successful
+2022-06-04/18:58:11		connection was successful
+2022-06-04/18:58:11		data loaded to csv successfully!!
+2022-06-04/19:20:35		connection was successful
+2022-06-04/19:20:36		Tables created successfully!!
+2022-06-04/19:20:50		connection was successful
+2022-06-04/19:21:12		connection was successful
+2022-06-04/19:21:12		data loaded to csv successfully!!
+2022-06-04/20:34:15		connection was successful
+2022-06-04/20:34:15		Tables created successfully!!
+2022-06-04/20:34:31		connection was successful
+2022-06-04/20:34:57		connection was successful
+2022-06-04/20:34:57		data loaded to csv successfully!!
+2022-06-04/21:10:50		connection was successful
+2022-06-04/21:10:50		Tables created successfully!!
+2022-06-04/21:11:09		connection was successful
+2022-06-04/21:34:18		connection was successful
+2022-06-04/21:34:18		Tables created successfully!!
+2022-06-04/21:34:33		connection was successful
+2022-06-04/21:34:56		connection was successful
+2022-06-04/21:34:56		data loaded to csv successfully!!

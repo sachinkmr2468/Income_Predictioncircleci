@@ -1,0 +1,271 @@
+2022-05-31/18:12:47		Entered the remove_columns method of the Preprocessor class
+2022-05-31/18:13:11		Column removed Successfully
+2022-05-31/18:13:58		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-05-31/18:16:24		Exception occured in remove_unwanted_spaces("'Series' object has no attribute 'strip'", 'occurred at index workclass')
+2022-05-31/18:16:46		unwanted space removal Unsuccessful
+2022-06-01/19:59:39		Entered the remove_columns method of the Preprocessor class
+2022-06-01/19:59:39		Column removed Successfully
+2022-06-01/19:59:39		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/19:59:40		Exception occured in remove_unwanted_spaces("'Series' object has no attribute 'strip'", 'occurred at index workclass')
+2022-06-01/19:59:40		unwanted space removal Unsuccessful
+2022-06-01/20:22:44		Entered the remove_columns method of the Preprocessor class
+2022-06-01/20:22:54		Column removed Successfully
+2022-06-01/20:23:08		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/20:24:43		Exception occured in remove_unwanted_spaces("'Series' object has no attribute 'strip'", 'occurred at index workclass')
+2022-06-01/20:24:48		unwanted space removal Unsuccessful
+2022-06-01/20:30:26		Entered the remove_columns method of the Preprocessor class
+2022-06-01/20:30:26		Column removed Successfully
+2022-06-01/20:30:27		Entered the separate_label_feature method of the Preprocessor class
+2022-06-01/20:30:27		Exception occured in separate_label_feature method"['Income'] not found in axis"
+2022-06-01/20:30:27		Exited the separate_label_feature method of the Preprocessor class
+2022-06-01/20:41:44		Entered the remove_columns method of the Preprocessor class
+2022-06-01/20:41:44		Column removed Successfully
+2022-06-01/20:41:44		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/20:41:44		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/20:41:44		Entered the separate_label_feature method of the Preprocessor class
+2022-06-01/20:41:44		Exception occured in separate_label_feature method"['Income'] not found in axis"
+2022-06-01/20:41:44		Exited the separate_label_feature method of the Preprocessor class
+2022-06-01/21:20:26		Entered the remove_columns method of the Preprocessor class
+2022-06-01/21:20:26		Column removed Successfully
+2022-06-01/21:20:26		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/21:20:26		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/21:20:27		Entered the separate_label_feature method of the Preprocessor class
+2022-06-01/21:20:27		Label Separation Successful
+2022-06-01/21:20:27		Entered the is_null_present method of the Preprocessor class
+2022-06-01/21:20:27		Finding missing values is a success
+2022-06-01/21:20:27		Entered the impute_missing_values method of the Preprocessor class
+2022-06-01/21:20:27		Imputing missing values Successful
+2022-06-01/21:20:27		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-01/21:20:27		scaling for numerical values successful
+2022-06-01/21:20:27		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-01/21:20:27		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-01/21:20:27		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2022-06-01/21:20:27		dataset balancing successful
+2022-06-01/21:23:37		Entered the remove_columns method of the Preprocessor class
+2022-06-01/21:23:37		Column removed Successfully
+2022-06-01/21:23:37		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/21:23:38		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/21:23:38		Entered the separate_label_feature method of the Preprocessor class
+2022-06-01/21:23:38		Label Separation Successful
+2022-06-01/21:23:38		Entered the is_null_present method of the Preprocessor class
+2022-06-01/21:23:38		Finding missing values is a success
+2022-06-01/21:23:38		Entered the impute_missing_values method of the Preprocessor class
+2022-06-01/21:23:38		Imputing missing values Successful
+2022-06-01/21:23:38		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-01/21:23:38		scaling for numerical values successful
+2022-06-01/21:23:38		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-01/21:23:38		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-01/21:23:38		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2022-06-01/21:23:38		dataset balancing successful
+2022-06-01/21:59:28		Entered the remove_columns method of the Preprocessor class
+2022-06-01/21:59:28		Column removed Successfully
+2022-06-01/21:59:28		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/21:59:29		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/21:59:29		Entered the separate_label_feature method of the Preprocessor class
+2022-06-01/21:59:29		Label Separation Successful
+2022-06-01/21:59:29		Entered the is_null_present method of the Preprocessor class
+2022-06-01/21:59:29		Finding missing values is a success
+2022-06-01/21:59:29		Entered the impute_missing_values method of the Preprocessor class
+2022-06-01/21:59:29		Imputing missing values Successful
+2022-06-01/21:59:29		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-01/21:59:29		scaling for numerical values successful
+2022-06-01/21:59:29		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-01/21:59:29		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-01/21:59:29		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2022-06-01/21:59:29		dataset balancing successful
+2022-06-01/22:06:46		Entered the remove_columns method of the Preprocessor class
+2022-06-01/22:07:27		Column removed Successfully
+2022-06-01/22:07:38		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/22:08:35		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-01/22:09:56		Entered the separate_label_feature method of the Preprocessor class
+2022-06-01/22:10:16		Label Separation Successful
+2022-06-01/22:10:53		Entered the is_null_present method of the Preprocessor class
+2022-06-01/22:12:44		Finding missing values is a success
+2022-06-01/22:12:58		Entered the impute_missing_values method of the Preprocessor class
+2022-06-01/22:13:22		Imputing missing values Successful
+2022-06-01/22:13:37		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-01/22:13:53		scaling for numerical values successful
+2022-06-01/22:14:03		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-01/22:14:30		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-01/22:14:48		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2022-06-01/22:15:04		dataset balancing successful
+2022-06-02/18:10:58		Entered the remove_columns method of the Preprocessor class
+2022-06-02/18:10:59		Column removed Successfully
+2022-06-02/18:10:59		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-02/18:10:59		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-02/18:10:59		Entered the separate_label_feature method of the Preprocessor class
+2022-06-02/18:10:59		Label Separation Successful
+2022-06-02/18:10:59		Entered the is_null_present method of the Preprocessor class
+2022-06-02/18:10:59		Finding missing values is a success
+2022-06-02/18:10:59		Entered the impute_missing_values method of the Preprocessor class
+2022-06-02/18:11:00		Imputing missing values Successful
+2022-06-02/18:11:00		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-02/18:11:00		scaling for numerical values successful
+2022-06-02/18:11:00		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-02/18:11:00		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-02/18:11:00		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2022-06-02/18:11:00		dataset balancing successful
+2022-06-02/19:24:14		Entered the remove_columns method of the Preprocessor class
+2022-06-02/19:24:14		Column removed Successfully
+2022-06-02/19:24:14		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-02/19:24:14		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-02/19:24:15		Entered the separate_label_feature method of the Preprocessor class
+2022-06-02/19:24:15		Label Separation Successful
+2022-06-02/19:24:15		Entered the is_null_present method of the Preprocessor class
+2022-06-02/19:24:15		Finding missing values is a success
+2022-06-02/19:24:15		Entered the impute_missing_values method of the Preprocessor class
+2022-06-02/19:24:15		Imputing missing values Successful
+2022-06-02/19:24:15		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-02/19:24:15		scaling for numerical values successful
+2022-06-02/19:24:15		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-02/19:24:15		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-02/19:24:15		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2022-06-02/19:24:15		dataset balancing successful
+2022-06-02/21:57:47		Entered the remove_columns method of the Preprocessor class
+2022-06-02/21:57:47		Column removed Successfully
+2022-06-02/21:57:48		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-02/21:57:49		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-02/21:57:52		Entered the separate_label_feature method of the Preprocessor class
+2022-06-02/21:57:52		Label Separation Successful
+2022-06-02/21:58:00		Entered the is_null_present method of the Preprocessor class
+2022-06-02/21:58:00		Finding missing values is a success
+2022-06-02/21:58:03		Entered the impute_missing_values method of the Preprocessor class
+2022-06-02/21:58:03		Imputing missing values Successful
+2022-06-02/21:58:05		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-02/21:58:05		scaling for numerical values successful
+2022-06-02/21:58:07		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-02/21:58:07		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-02/21:58:12		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2022-06-02/21:58:13		dataset balancing successful
+2022-06-03/23:21:28		Entered the remove_columns method of the Preprocessor class
+2022-06-03/23:21:28		Column removed Successfully
+2022-06-03/23:21:29		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-03/23:21:29		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-03/23:21:34		Entered the is_null_present method of the Preprocessor class
+2022-06-03/23:21:36		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-03/23:21:36		scaling for numerical values successful
+2022-06-03/23:21:37		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-03/23:21:37		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-03/23:26:36		Entered the remove_columns method of the Preprocessor class
+2022-06-03/23:26:36		Column removed Successfully
+2022-06-03/23:26:37		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-03/23:26:37		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-03/23:26:39		Entered the is_null_present method of the Preprocessor class
+2022-06-03/23:26:41		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-03/23:26:41		scaling for numerical values successful
+2022-06-03/23:26:42		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-03/23:26:42		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/14:35:48		Entered the remove_columns method of the Preprocessor class
+2022-06-04/14:36:03		Column removed Successfully
+2022-06-04/14:36:12		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/14:36:34		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/14:36:45		Entered the is_null_present method of the Preprocessor class
+2022-06-04/14:37:32		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/14:37:45		scaling for numerical values successful
+2022-06-04/14:37:53		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/14:38:17		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/15:08:00		Entered the remove_columns method of the Preprocessor class
+2022-06-04/15:08:00		Column removed Successfully
+2022-06-04/15:08:01		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/15:08:01		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/15:08:04		Entered the is_null_present method of the Preprocessor class
+2022-06-04/15:08:07		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/15:08:08		scaling for numerical values successful
+2022-06-04/15:08:10		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/15:08:10		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/15:12:26		Entered the remove_columns method of the Preprocessor class
+2022-06-04/15:12:26		Column removed Successfully
+2022-06-04/15:12:29		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/15:12:29		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/15:12:34		Entered the is_null_present method of the Preprocessor class
+2022-06-04/15:12:49		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/15:12:49		scaling for numerical values successful
+2022-06-04/15:12:51		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/15:12:51		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/17:01:45		Entered the remove_columns method of the Preprocessor class
+2022-06-04/17:01:45		Column removed Successfully
+2022-06-04/17:01:45		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/17:01:45		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/17:01:45		Entered the separate_label_feature method of the Preprocessor class
+2022-06-04/17:01:45		Label Separation Successful
+2022-06-04/17:01:45		Entered the is_null_present method of the Preprocessor class
+2022-06-04/17:01:45		Finding missing values is a success
+2022-06-04/17:01:45		Entered the impute_missing_values method of the Preprocessor class
+2022-06-04/17:01:45		Exception occured in impute_missing_values methodNo value is repeated more than once in the column
+2022-06-04/17:01:45		Imputing missing values failed
+2022-06-04/17:40:46		Entered the remove_columns method of the Preprocessor class
+2022-06-04/17:40:46		Column removed Successfully
+2022-06-04/17:40:47		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/17:40:47		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/17:40:52		Entered the separate_label_feature method of the Preprocessor class
+2022-06-04/17:40:52		Label Separation Successful
+2022-06-04/17:40:55		Entered the is_null_present method of the Preprocessor class
+2022-06-04/17:40:55		Finding missing values is a success
+2022-06-04/17:40:58		Entered the impute_missing_values method of the Preprocessor class
+2022-06-04/17:40:58		Imputing missing values Successful
+2022-06-04/17:40:59		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/17:40:59		scaling for numerical values successful
+2022-06-04/17:41:01		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/17:41:01		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/17:41:04		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2022-06-04/17:41:04		dataset balancing successful
+2022-06-04/18:20:20		Entered the remove_columns method of the Preprocessor class
+2022-06-04/18:20:20		Column removed Successfully
+2022-06-04/18:20:20		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/18:20:21		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/18:20:21		Entered the is_null_present method of the Preprocessor class
+2022-06-04/18:20:21		Finding missing values is a success
+2022-06-04/18:20:21		Entered the impute_missing_values method of the Preprocessor class
+2022-06-04/18:20:21		Imputing missing values Successful
+2022-06-04/18:20:21		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/18:20:21		scaling for numerical values successful
+2022-06-04/18:20:21		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/18:20:21		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/18:58:17		Entered the remove_columns method of the Preprocessor class
+2022-06-04/18:58:17		Column removed Successfully
+2022-06-04/18:58:17		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/18:58:18		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/18:58:18		Entered the is_null_present method of the Preprocessor class
+2022-06-04/18:58:18		Finding missing values is a success
+2022-06-04/18:58:18		Entered the impute_missing_values method of the Preprocessor class
+2022-06-04/18:58:18		Imputing missing values Successful
+2022-06-04/18:58:18		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/18:58:18		scaling for numerical values successful
+2022-06-04/18:58:18		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/18:58:18		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/19:21:19		Entered the remove_columns method of the Preprocessor class
+2022-06-04/19:21:19		Column removed Successfully
+2022-06-04/19:21:19		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/19:21:19		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/19:21:20		Entered the is_null_present method of the Preprocessor class
+2022-06-04/19:21:20		Finding missing values is a success
+2022-06-04/19:21:20		Entered the impute_missing_values method of the Preprocessor class
+2022-06-04/19:21:20		Imputing missing values Successful
+2022-06-04/19:21:20		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/19:21:20		scaling for numerical values successful
+2022-06-04/19:21:20		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/19:21:20		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/20:35:06		Entered the remove_columns method of the Preprocessor class
+2022-06-04/20:35:06		Column removed Successfully
+2022-06-04/20:35:06		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/20:35:06		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/20:35:06		Entered the is_null_present method of the Preprocessor class
+2022-06-04/20:35:06		Finding missing values is a success
+2022-06-04/20:35:06		Entered the impute_missing_values method of the Preprocessor class
+2022-06-04/20:35:06		Imputing missing values Successful
+2022-06-04/20:35:06		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/20:35:06		scaling for numerical values successful
+2022-06-04/20:35:06		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/20:35:06		Exited the encode_categorical_columns method of the Preprocessor class
+2022-06-04/21:35:00		Entered the remove_columns method of the Preprocessor class
+2022-06-04/21:35:00		Column removed Successfully
+2022-06-04/21:35:00		Entered the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/21:35:01		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2022-06-04/21:35:01		Entered the is_null_present method of the Preprocessor class
+2022-06-04/21:35:01		Finding missing values is a success
+2022-06-04/21:35:01		Entered the impute_missing_values method of the Preprocessor class
+2022-06-04/21:35:01		Imputing missing values Successful
+2022-06-04/21:35:01		Entered the scale_numerical_columns method of the Preprocessor class
+2022-06-04/21:35:01		scaling for numerical values successful
+2022-06-04/21:35:01		Entered the encode_categorical_columns method of the Preprocessor class
+2022-06-04/21:35:01		Exited the encode_categorical_columns method of the Preprocessor class

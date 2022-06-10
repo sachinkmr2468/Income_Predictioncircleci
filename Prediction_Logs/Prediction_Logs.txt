@@ -1,0 +1,20 @@
+2022-06-03/23:21:22		Start of Prediction
+2022-06-03/23:22:08		Error occured while running the prediction!! Error:: 'NoneType' object has no attribute 'predict'
+2022-06-03/23:26:31		Start of Prediction
+2022-06-03/23:27:53		Error occured while running the prediction!! Error:: 'NoneType' object has no attribute 'predict'
+2022-06-04/14:34:17		Start of Prediction
+2022-06-04/14:40:28		Error occured while running the prediction!! Error:: 'NoneType' object has no attribute 'predict'
+2022-06-04/15:07:52		Start of Prediction
+2022-06-04/15:08:44		Error occured while running the prediction!! Error:: 
+2022-06-04/15:12:02		Start of Prediction
+2022-06-04/15:15:09		Error occured while running the prediction!! Error:: 
+2022-06-04/18:20:20		Start of Prediction
+2022-06-04/18:20:22		End of Prediction
+2022-06-04/18:58:17		Start of Prediction
+2022-06-04/18:58:19		End of Prediction
+2022-06-04/19:21:18		Start of Prediction
+2022-06-04/19:21:21		End of Prediction
+2022-06-04/20:35:05		Start of Prediction
+2022-06-04/20:35:07		End of Prediction
+2022-06-04/21:35:00		Start of Prediction
+2022-06-04/21:35:02		End of Prediction

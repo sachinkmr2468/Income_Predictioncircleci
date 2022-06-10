@@ -1,0 +1,94 @@
+2022-05-30/22:04:56		Column Length Validation Started!!
+2022-05-30/22:04:56		Error Occured while moving the file :: <class 'OSError'>
+2022-05-31/02:41:14		Column Length Validation Started!!
+2022-05-31/02:41:14		Error Occured while moving the file :: <class 'OSError'>
+2022-05-31/02:49:50		Column Length Validation Started!!
+2022-05-31/02:49:50		Error Occured while moving the file :: <class 'OSError'>
+2022-05-31/10:45:17		Column Length Validation Started!!
+2022-05-31/10:45:17		Error Occured while moving the file :: <class 'OSError'>
+2022-05-31/15:12:15		Column Length Validation Started!!
+2022-05-31/15:12:46		Column Length Validation Completed!!
+2022-05-31/15:24:07		Column Length Validation Started!!
+2022-05-31/15:24:20		Column Length Validation Completed!!
+2022-05-31/17:02:23		Column Length Validation Started!!
+2022-05-31/17:02:34		Column Length Validation Completed!!
+2022-05-31/17:22:28		Column Length Validation Started!!
+2022-05-31/17:22:38		Column Length Validation Completed!!
+2022-05-31/21:32:26		Column Length Validation Started!!
+2022-05-31/21:32:39		Column Length Validation Completed!!
+2022-05-31/22:36:55		Column Length Validation Started!!
+2022-05-31/22:36:55		Column Length Validation Completed!!
+2022-06-01/19:58:08		Column Length Validation Started!!
+2022-06-01/19:58:09		Column Length Validation Completed!!
+2022-06-01/19:58:38		Column Length Validation Started!!
+2022-06-01/19:58:38		Column Length Validation Completed!!
+2022-06-01/20:03:35		Column Length Validation Started!!
+2022-06-01/20:03:36		Column Length Validation Completed!!
+2022-06-01/20:09:25		Column Length Validation Started!!
+2022-06-01/20:09:39		Column Length Validation Completed!!
+2022-06-01/20:29:22		Column Length Validation Started!!
+2022-06-01/20:29:22		Column Length Validation Completed!!
+2022-06-01/20:40:37		Column Length Validation Started!!
+2022-06-01/20:40:37		Column Length Validation Completed!!
+2022-06-01/20:51:34		Column Length Validation Started!!
+2022-06-01/20:51:34		Column Length Validation Completed!!
+2022-06-01/21:19:35		Column Length Validation Started!!
+2022-06-01/21:19:35		Column Length Validation Completed!!
+2022-06-01/21:23:02		Column Length Validation Started!!
+2022-06-01/21:23:02		Column Length Validation Completed!!
+2022-06-01/21:58:25		Column Length Validation Started!!
+2022-06-01/21:58:25		Column Length Validation Completed!!
+2022-06-01/22:05:01		Column Length Validation Started!!
+2022-06-01/22:05:01		Column Length Validation Completed!!
+2022-06-01/22:24:19		Column Length Validation Started!!
+2022-06-01/22:24:19		Column Length Validation Completed!!
+2022-06-01/22:36:47		Column Length Validation Started!!
+2022-06-01/22:36:47		Column Length Validation Completed!!
+2022-06-02/18:09:55		Column Length Validation Started!!
+2022-06-02/18:09:55		Column Length Validation Completed!!
+2022-06-02/18:25:25		Column Length Validation Started!!
+2022-06-02/18:25:25		Column Length Validation Completed!!
+2022-06-02/18:28:02		Column Length Validation Started!!
+2022-06-02/18:28:02		Column Length Validation Completed!!
+2022-06-02/18:29:56		Column Length Validation Started!!
+2022-06-02/18:29:56		Column Length Validation Completed!!
+2022-06-02/18:32:20		Column Length Validation Started!!
+2022-06-02/18:32:20		Column Length Validation Completed!!
+2022-06-02/18:37:57		Column Length Validation Started!!
+2022-06-02/18:37:57		Column Length Validation Completed!!
+2022-06-02/19:18:48		Column Length Validation Started!!
+2022-06-02/19:18:48		Column Length Validation Completed!!
+2022-06-02/19:23:26		Column Length Validation Started!!
+2022-06-02/19:23:26		Column Length Validation Completed!!
+2022-06-02/21:56:36		Column Length Validation Started!!
+2022-06-02/21:56:36		Column Length Validation Completed!!
+2022-06-03/09:39:13		Column Length Validation Started!!
+2022-06-03/09:39:13		Error Occured while moving the file :: <class 'OSError'>
+2022-06-03/09:40:48		Column Length Validation Started!!
+2022-06-03/09:40:48		Error Occured while moving the file :: <class 'OSError'>
+2022-06-03/10:09:33		Column Length Validation Started!!
+2022-06-03/10:09:33		Error Occured while moving the file :: <class 'OSError'>
+2022-06-03/10:11:12		Column Length Validation Started!!
+2022-06-03/10:11:12		Column Length Validation Completed!!
+2022-06-03/10:18:01		Column Length Validation Started!!
+2022-06-03/10:18:01		Column Length Validation Completed!!
+2022-06-03/10:19:44		Column Length Validation Started!!
+2022-06-03/10:19:44		Column Length Validation Completed!!
+2022-06-03/10:20:37		Column Length Validation Started!!
+2022-06-03/10:20:37		Column Length Validation Completed!!
+2022-06-03/10:39:25		Column Length Validation Started!!
+2022-06-03/10:39:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119910_010212.csv
+2022-06-03/10:39:25		Invalid Column Length for the file!! File moved to Bad Raw Folder :: incomeData_021119911_010213.csv
+2022-06-03/10:39:25		Column Length Validation Completed!!
+2022-06-04/17:00:52		Column Length Validation Started!!
+2022-06-04/17:00:52		Column Length Validation Completed!!
+2022-06-04/17:03:01		Column Length Validation Started!!
+2022-06-04/17:03:01		Column Length Validation Completed!!
+2022-06-04/17:06:32		Column Length Validation Started!!
+2022-06-04/17:06:32		Column Length Validation Completed!!
+2022-06-04/17:24:52		Column Length Validation Started!!
+2022-06-04/17:24:52		Column Length Validation Completed!!
+2022-06-04/17:32:39		Column Length Validation Started!!
+2022-06-04/17:32:39		Column Length Validation Completed!!
+2022-06-04/17:39:19		Column Length Validation Started!!
+2022-06-04/17:39:19		Column Length Validation Completed!!

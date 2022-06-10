@@ -1,0 +1,170 @@
+2022-05-31/17:57:08		connection was successful
+2022-05-31/17:58:51		data loaded successfully!!
+2022-05-31/18:03:02		data loaded successfully!!
+2022-05-31/18:08:28		connection was successful
+2022-05-31/18:09:02		data loaded to csv successfully!!
+2022-05-31/21:42:13		connection was successful
+2022-05-31/21:43:13		data loaded successfully!!
+2022-05-31/21:44:10		data loaded successfully!!
+2022-06-01/19:58:41		connection was successful
+2022-06-01/19:58:52		connection was successful
+2022-06-01/19:58:57		connection was successful
+2022-06-01/19:59:04		data loaded successfully!!
+2022-06-01/19:59:07		connection was successful
+2022-06-01/19:59:10		data loaded successfully!!
+2022-06-01/19:59:12		data loaded successfully!!
+2022-06-01/19:59:18		data loaded successfully!!
+2022-06-01/19:59:31		connection was successful
+2022-06-01/19:59:31		data loaded to csv successfully!!
+2022-06-01/20:03:59		connection was successful
+2022-06-01/20:04:17		connection was successful
+2022-06-01/20:04:25		data loaded successfully!!
+2022-06-01/20:04:47		data loaded successfully!!
+2022-06-01/20:05:11		connection was successful
+2022-06-01/20:05:11		data loaded to csv successfully!!
+2022-06-01/20:18:17		connection was successful
+2022-06-01/20:19:18		data loaded successfully!!
+2022-06-01/20:20:18		data loaded successfully!!
+2022-06-01/20:21:42		connection was successful
+2022-06-01/20:21:53		data loaded to csv successfully!!
+2022-06-01/20:29:41		connection was successful
+2022-06-01/20:29:54		connection was successful
+2022-06-01/20:30:00		data loaded successfully!!
+2022-06-01/20:30:05		data loaded successfully!!
+2022-06-01/20:30:20		connection was successful
+2022-06-01/20:30:20		data loaded to csv successfully!!
+2022-06-01/20:40:52		connection was successful
+2022-06-01/20:41:05		connection was successful
+2022-06-01/20:41:11		data loaded successfully!!
+2022-06-01/20:41:17		data loaded successfully!!
+2022-06-01/20:41:38		connection was successful
+2022-06-01/20:41:38		data loaded to csv successfully!!
+2022-06-01/20:51:49		connection was successful
+2022-06-01/21:19:51		connection was successful
+2022-06-01/21:20:05		connection was successful
+2022-06-01/21:20:05		Error while creating table: Error from server: code=2200 [Invalid query] message="Undefined column name income" 
+2022-06-01/21:20:20		connection was successful
+2022-06-01/21:20:20		data loaded to csv successfully!!
+2022-06-01/21:23:12		connection was successful
+2022-06-01/21:23:22		connection was successful
+2022-06-01/21:23:23		Error while creating table: Error from server: code=2200 [Invalid query] message="Undefined column name income" 
+2022-06-01/21:23:32		connection was successful
+2022-06-01/21:23:33		data loaded to csv successfully!!
+2022-06-01/21:45:17		connection was successful
+2022-06-01/21:45:49		connection was successful
+2022-06-01/21:48:53		connection was successful
+2022-06-01/21:49:15		connection was successful
+2022-06-01/21:54:04		connection was successful
+2022-06-01/21:54:22		connection was successful
+2022-06-01/21:58:42		connection was successful
+2022-06-01/21:58:58		connection was successful
+2022-06-01/21:59:03		data loaded successfully!!
+2022-06-01/21:59:09		data loaded successfully!!
+2022-06-01/21:59:23		connection was successful
+2022-06-01/21:59:23		data loaded to csv successfully!!
+2022-06-01/22:05:18		connection was successful
+2022-06-01/22:05:31		connection was successful
+2022-06-01/22:05:37		data loaded successfully!!
+2022-06-01/22:05:42		data loaded successfully!!
+2022-06-01/22:05:57		connection was successful
+2022-06-01/22:05:57		data loaded to csv successfully!!
+2022-06-01/22:24:33		connection was successful
+2022-06-01/22:24:46		connection was successful
+2022-06-01/22:24:51		data loaded successfully!!
+2022-06-01/22:24:57		data loaded successfully!!
+2022-06-01/22:25:10		connection was successful
+2022-06-01/22:25:10		data loaded to csv successfully!!
+2022-06-01/22:37:00		connection was successful
+2022-06-01/22:37:13		connection was successful
+2022-06-01/22:37:18		data loaded successfully!!
+2022-06-01/22:37:24		data loaded successfully!!
+2022-06-01/22:37:40		connection was successful
+2022-06-01/22:37:40		data loaded to csv successfully!!
+2022-06-02/18:10:12		connection was successful
+2022-06-02/18:10:25		connection was successful
+2022-06-02/18:10:30		data loaded successfully!!
+2022-06-02/18:10:34		data loaded successfully!!
+2022-06-02/18:10:46		connection was successful
+2022-06-02/18:10:46		data loaded to csv successfully!!
+2022-06-02/18:25:41		connection was successful
+2022-06-02/18:25:56		connection was successful
+2022-06-02/18:26:01		data loaded successfully!!
+2022-06-02/18:26:05		data loaded successfully!!
+2022-06-02/18:26:19		connection was successful
+2022-06-02/18:26:19		data loaded to csv successfully!!
+2022-06-02/18:28:15		connection was successful
+2022-06-02/18:28:27		connection was successful
+2022-06-02/18:28:31		data loaded successfully!!
+2022-06-02/18:28:36		data loaded successfully!!
+2022-06-02/18:30:09		connection was successful
+2022-06-02/18:30:22		connection was successful
+2022-06-02/18:30:27		data loaded successfully!!
+2022-06-02/18:30:31		data loaded successfully!!
+2022-06-02/18:30:43		connection was successful
+2022-06-02/18:30:44		data loaded to csv successfully!!
+2022-06-02/18:32:33		connection was successful
+2022-06-02/18:32:45		connection was successful
+2022-06-02/18:32:50		data loaded successfully!!
+2022-06-02/18:32:54		data loaded successfully!!
+2022-06-02/18:33:06		connection was successful
+2022-06-02/18:33:06		data loaded to csv successfully!!
+2022-06-02/18:38:10		connection was successful
+2022-06-02/18:38:22		connection was successful
+2022-06-02/18:38:26		data loaded successfully!!
+2022-06-02/18:38:31		data loaded successfully!!
+2022-06-02/18:38:43		connection was successful
+2022-06-02/18:38:43		data loaded to csv successfully!!
+2022-06-02/19:19:06		connection was successful
+2022-06-02/19:19:19		connection was successful
+2022-06-02/19:19:24		data loaded successfully!!
+2022-06-02/19:19:29		data loaded successfully!!
+2022-06-02/19:19:41		connection was successful
+2022-06-02/19:19:41		data loaded to csv successfully!!
+2022-06-02/19:23:38		connection was successful
+2022-06-02/19:23:51		connection was successful
+2022-06-02/19:23:56		data loaded successfully!!
+2022-06-02/19:24:01		data loaded successfully!!
+2022-06-02/19:24:13		connection was successful
+2022-06-02/19:24:13		data loaded to csv successfully!!
+2022-06-02/21:56:49		connection was successful
+2022-06-02/21:57:03		connection was successful
+2022-06-02/21:57:08		data loaded successfully!!
+2022-06-02/21:57:15		data loaded successfully!!
+2022-06-02/21:57:27		connection was successful
+2022-06-02/21:57:27		data loaded to csv successfully!!
+2022-06-04/17:01:05		connection was successful
+2022-06-04/17:01:19		connection was successful
+2022-06-04/17:01:24		data loaded successfully!!
+2022-06-04/17:01:28		data loaded successfully!!
+2022-06-04/17:01:40		connection was successful
+2022-06-04/17:01:41		data loaded to csv successfully!!
+2022-06-04/17:03:14		connection was successful
+2022-06-04/17:03:26		connection was successful
+2022-06-04/17:03:31		data loaded successfully!!
+2022-06-04/17:03:35		data loaded successfully!!
+2022-06-04/17:03:50		connection was successful
+2022-06-04/17:03:50		data loaded to csv successfully!!
+2022-06-04/17:06:47		connection was successful
+2022-06-04/17:06:58		connection was successful
+2022-06-04/17:07:03		data loaded successfully!!
+2022-06-04/17:07:08		data loaded successfully!!
+2022-06-04/17:07:20		connection was successful
+2022-06-04/17:07:20		data loaded to csv successfully!!
+2022-06-04/17:25:06		connection was successful
+2022-06-04/17:25:18		connection was successful
+2022-06-04/17:25:24		data loaded successfully!!
+2022-06-04/17:25:34		data loaded successfully!!
+2022-06-04/17:25:48		connection was successful
+2022-06-04/17:25:48		data loaded to csv successfully!!
+2022-06-04/17:32:52		connection was successful
+2022-06-04/17:33:05		connection was successful
+2022-06-04/17:33:11		data loaded successfully!!
+2022-06-04/17:33:21		data loaded successfully!!
+2022-06-04/17:33:33		connection was successful
+2022-06-04/17:33:33		data loaded to csv successfully!!
+2022-06-04/17:39:35		connection was successful
+2022-06-04/17:39:50		connection was successful
+2022-06-04/17:39:56		data loaded successfully!!
+2022-06-04/17:40:05		data loaded successfully!!
+2022-06-04/17:40:17		connection was successful
+2022-06-04/17:40:17		data loaded to csv successfully!!

@@ -1,0 +1,2 @@
+2022-06-03/11:09:58		Error Occured while moving the file :: <class 'OSError'>
+2022-06-03/12:05:08		Error Occured while moving the file :: <class 'OSError'>

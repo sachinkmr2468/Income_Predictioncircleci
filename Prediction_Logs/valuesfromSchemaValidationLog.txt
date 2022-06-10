@@ -1,0 +1,54 @@
+2022-06-03/00:34:11		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/00:42:59		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/01:29:33		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/01:36:00		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/11:05:33		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/13:02:32		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/13:11:18		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/14:27:58		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/22:27:18		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/22:57:12		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/23:20:14		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-03/23:25:21		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/14:32:53		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/15:06:30		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/15:10:53		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/15:27:37		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/15:42:42		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/16:44:22		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/16:53:27		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/17:57:52		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/18:08:23		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/18:19:11		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/18:57:22		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/19:20:19		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/20:34:00		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/21:10:19		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
+2022-06-04/21:34:02		LengthOfDateStampInFile:: 9	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 14
+
